@@ -142,8 +142,8 @@ body{
     }
 
     .cabecalho__menu {
-        gap: 40px;
-        align-items: center;   
+        gap: 30px;
+        justify-content: start;   
     }
     
     .apresentacao {
